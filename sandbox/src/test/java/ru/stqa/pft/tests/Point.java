@@ -1,3 +1,5 @@
+package ru.stqa.pft.tests;
+
 public class Point {
     double x;
     double y;
