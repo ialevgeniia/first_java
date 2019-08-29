@@ -1,4 +1,7 @@
+package ru.stqa.pft.tests;
+
 import org.testng.annotations.Test;
+import ru.stqa.pft.second.Rectangle;
 
 public class AutoRect {
     @Test
